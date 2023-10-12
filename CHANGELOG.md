@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/DavidNowakowski/release-please-test-2/compare/v1.0.0...v1.1.0) (2023-10-12)
+
+
+### Features
+
+* **README:** Test 2 ([9d74e4f](https://github.com/DavidNowakowski/release-please-test-2/commit/9d74e4f30a5fdf1f0d8a3e9250f90ba14bc435ef))
+* **ReleasePlease:** Update yaml ([b47eaf2](https://github.com/DavidNowakowski/release-please-test-2/commit/b47eaf233fc69495e5749b08002d98b60bea092a))
+
 ## 1.0.0 (2023-10-12)
 
 
